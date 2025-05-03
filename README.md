@@ -1,16 +1,16 @@
 ## metehan 👋
 
-<!--
+
 **metehannfb/metehannfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# vektorel_Python92 Grubu derste yapılanlar
+## temel pyhotn dersi
+### hafta 1:print-input
+Print foksiyonu-2
+<img heinght="`50" scr="htps://wwww.fullstackpython.com/img/logos/py.com" 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hafta- : print-input
+Print foksiyonu ile con....<u>Grubu</u>
+### hafta-2 : if
+###hafta-3 : for
+"
