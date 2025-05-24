@@ -1,9 +1,1 @@
-print 
-input
-deneme
-def
-deneme2
-deneme3
-deneme4 
-deneme5
-inş unutmam
+Metehan bölükbaş
